@@ -1,0 +1,103 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color:rgb(240, 242, 245)
+}
+
+.textbox{
+    margin-top:170px;
+    margin-left:80px;
+}
+
+h1{
+    font-size: 55px;
+    color:rgb(24,119,242);  
+    font-family: sans-serif;
+}
+h2{
+    font-family:Arial;
+    font-size: 28px;
+    font-weight: normal;
+    width:500px;
+    line-height: 32px;
+}
+.container{ 
+    width: 400px;
+    height: 20px;
+    margin-top: -230px;
+    margin-right: 250px;
+    background-color: white;
+    float: right;
+    border-radius: 12px;
+    width: 410px;
+    height: 355px;
+    text-align: center;
+
+}
+.log-form{
+    float: right;
+    background-color: white;
+    margin-top: -12px;
+    padding: 20.2px;
+    border-radius: 8px;
+}
+.log-form input{
+    margin-top: 8px;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding: 27px;
+    border-radius: 8px;
+    width: 332px;
+    height: 2px;
+    border-color: white;
+
+}
+button{
+    margin-top: 8px;
+    padding: 16px;
+    width: 100%;
+    border-radius: 8px;
+    border-color: rgb(24,119,242);
+    background-color: rgb(24,119,242);
+    color:white;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+p{
+    background-color: white;
+    font-size: 16px;
+    color: rgb(24,119,242);
+    margin-top: 10px;
+}
+p a{
+    color: rgb(24,119,242);
+    background-color: white;
+
+}
+.newacc{
+    padding: 7px;
+    background-color:white;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 15px;
+}
+.newacc button{
+    background-color: rgb(27,156,36);
+}
+.create{
+    background-color: rgb(240, 242, 245);
+    color:black;
+    text-align: center;
+    margin-top: 160px;
+    margin-right: -390px;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.create a{
+    background-color: rgb(240, 242, 245);
+    color: black;
+}
+/* .languages{
+    background-color: white;
+} */
